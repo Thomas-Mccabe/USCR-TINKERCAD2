@@ -1,2 +1,2 @@
-# USCR-TINKERCAD2
+# USRC-TINKERCAD2
 This is the gitHub repo TinkerCAD Workshop - 2
